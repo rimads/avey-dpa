@@ -1,0 +1,5 @@
+export RWKV_JIT_ON=0
+export RWKV_HEAD_SIZE=64
+export RWKV_FLOAT_MODE=bf16
+export RWKV_MY_TESTING=x070
+export RWKV_CUDA_PATH=cuda
