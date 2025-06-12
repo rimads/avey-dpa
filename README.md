@@ -1,6 +1,6 @@
 # Don't Pay Attention
 
-This repository includes the code used to train models, run benchmarks, and create plots for the paper [Don't Pay Attention](https://arxiv.org/abs/blehbleh).
+This repository includes the code used to train models, run benchmarks, and create plots for the paper [Don't Pay Attention](https://arxiv.org/abs/placeholder) (paper will be on arxiv soon).
 
 > [!NOTE]
 > Licenses in subdirectories take precedence over the repository license for their respective subdirectories, and licenses in individual files take precedence over the subdirectory license for their respective files.
