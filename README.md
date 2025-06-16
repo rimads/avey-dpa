@@ -5,7 +5,7 @@ This repository includes the code used to train models, run benchmarks, and crea
 > [!NOTE]
 > Licenses in subdirectories take precedence over the repository license for their respective subdirectories, and licenses in individual files take precedence over the subdirectory license for their respective files.
 
-All the model checkpoints trained during this work are available on [HuggingFace](https://huggingface.co/collections/avey-ai/dont-pay-attention-68454fb98666af07b6adf429). Base and instruct-tuned preview versions of Avey-1 based on the models trained as a part of this work, which you can try out are available [here](https://huggingface.co/collections/avey-ai/avey-1-research-preview-684594455dc52c40017b3ffa).
+All the model checkpoints trained during this work are available on [HuggingFace](https://huggingface.co/collections/avey-ai/dont-pay-attention-68454fb98666af07b6adf429). Base and instruct-tuned preview versions of Avey-1 which you can try out are available [here](https://huggingface.co/collections/avey-ai/avey-1-research-preview-684594455dc52c40017b3ffa).
 
 ## Requirements
 
