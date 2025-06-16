@@ -1,4 +1,4 @@
-# Don't Pay Attention
+# Don't Pay Attention (DPA)
 
 This repository includes the code used to train models, run benchmarks, and create plots for the paper [Don't Pay Attention](https://arxiv.org/abs/2506.11305).
 
@@ -77,7 +77,7 @@ export MODEL_PATH=avey-ai/tpp-dpa-1.5B-100BT
 
 ## Training
 
-Adjust `NUMBER_OF_GPUS` and `BATCH_SIZE` in `train.sh`, and then run:
+Adjust `NUMBER_OF_GPUS` (on a single node) and `BATCH_SIZE` (start at 1, increase until your GPU runs out of memory) in `train.sh`, and then run:
 
 ```bash
 sh train.sh
